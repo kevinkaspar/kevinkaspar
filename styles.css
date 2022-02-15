@@ -1,0 +1,41 @@
+h1{
+  font-family: 'Architects Daughter', cursive;
+font-size: 75px;
+text-align: center;
+}
+
+.dog-description{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.dog-descriptions{
+  width: 33%;
+}
+
+
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-left: 5%;
+}
+
+#text{
+  font-size: 50px;
+  text-align: center;
+}
+
+  .button{
+      padding: 0.5em 1em; 
+      background-color: 
+      rgb(97, 16, 16); 
+      color: rgb(255, 255, 255);
+      margin: 2em; 
+      border-radius: 30px;
+      font-size: 40px;
+  } 
+
+#photo {
+   margin: 40px;
+   width: 60%;
+}
